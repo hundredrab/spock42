@@ -1,4 +1,4 @@
-This repo is a collection of all my micro-projects.
+This repo is a collection of all my small scripts.
 
 <h2><b> tic_tac_toe.py</b></h2>
 The classic game of tic-tac-toe which keeps a tally of your scores over multiple games.
