@@ -18,8 +18,8 @@ Python
 youtube-dl
 
 Usage:
-<code>git clone https://github.com/hundredrab/spock42 </code> 
-python billboard_downloader/download.py {{ url or genre }}
+<code>git clone https://github.com/hundredrab/spock42 </code> <br>
+<code>python billboard_downloader/download.py {{ url or genre }}
 </code>
 
 {{ url or genre }} may be any url of the billboards website listing top songs, or one genre among 'pop', 'country', 'rock', or 'indie'.
